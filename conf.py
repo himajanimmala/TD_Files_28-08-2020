@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Front End Development'
+project = 'web Development'
 copyright = '2020,Harideep'
-author = 'Harideep'
+author = 'Himaja'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
